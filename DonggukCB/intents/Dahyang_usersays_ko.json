@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a26dcb84-b916-4b18-847a-c5072f1e9560",
+    "data": [
+      {
+        "text": "다향관에 대해 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f05a3c6b-a808-40bd-b5d4-b8d4288a87cb",
+    "data": [
+      {
+        "text": "다향관은 뭐가 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4798ca69-22ee-47cb-aa34-a4e3c60c0dd7",
+    "data": [
+      {
+        "text": "다향관!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78a5a53d-602c-4bde-a731-5694817275ac",
+    "data": [
+      {
+        "text": "다향관 서비스에 대하여 알고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

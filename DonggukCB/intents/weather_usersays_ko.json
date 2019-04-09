@@ -1,0 +1,123 @@
+[
+  {
+    "id": "7524cf1a-3027-437c-b55e-ed5ca852a6d0",
+    "data": [
+      {
+        "text": "내일",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "서울시 중구",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": "의 날씨를 알려줘.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cac83b3-8964-4ce6-81a9-6cf80422210b",
+    "data": [
+      {
+        "text": "내일",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " 날씨 알려줘 ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9bd8654-c272-441e-98e1-7c8f16d84e66",
+    "data": [
+      {
+        "text": "오늘",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "는 어때?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80fa5088-e46b-4be6-84f2-78d4df50254e",
+    "data": [
+      {
+        "text": "날씨 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b20c957c-5711-4e73-b8e5-a88fbe42bf05",
+    "data": [
+      {
+        "text": "날씨가 어때?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f311b72c-f84f-473b-ab6e-ad2859b19c5e",
+    "data": [
+      {
+        "text": "지금",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " 날씨가 어때?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

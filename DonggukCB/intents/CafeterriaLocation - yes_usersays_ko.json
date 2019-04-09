@@ -1,0 +1,167 @@
+[
+  {
+    "id": "2568ea86-f9ec-49b0-adb9-0e41118b58db",
+    "data": [
+      {
+        "text": "네",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f693f20c-de0d-405c-9dc8-5465070f97ab",
+    "data": [
+      {
+        "text": "응",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ee11009-c694-4c26-a65b-14877ecfc958",
+    "data": [
+      {
+        "text": "ㅇㅋ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52cb903a-1c4e-47c2-8e6c-0374016acde7",
+    "data": [
+      {
+        "text": "ㅇㅇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6897b7cd-85d9-4008-8602-58dbbacb5737",
+    "data": [
+      {
+        "text": "상관없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497445130
+  },
+  {
+    "id": "48bfe049-d264-488a-b345-4242ba18a16e",
+    "data": [
+      {
+        "text": "좋아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445130
+  },
+  {
+    "id": "ca76c43c-d13f-4e59-850f-d4ffb32457b1",
+    "data": [
+      {
+        "text": "해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445130
+  },
+  {
+    "id": "b77db3fb-0cf5-482a-b8db-9380d8c49061",
+    "data": [
+      {
+        "text": "바로 그거야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445130
+  },
+  {
+    "id": "73a6bf5a-2040-4ba9-a1cf-42b92a1f6b7b",
+    "data": [
+      {
+        "text": "확인",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445130
+  },
+  {
+    "id": "a1ebd16b-34dd-4db3-bfab-a1c1e7aa1b79",
+    "data": [
+      {
+        "text": "그럼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497445130
+  },
+  {
+    "id": "87d65a0b-439f-44de-b026-d9ae53c06c88",
+    "data": [
+      {
+        "text": "물론",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445130
+  },
+  {
+    "id": "a06fcc1f-e0df-4bdb-bdfe-efc4c0bd2802",
+    "data": [
+      {
+        "text": "맞아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497445130
+  },
+  {
+    "id": "866f14c5-55e4-4e99-9a6e-5836a3b8b46e",
+    "data": [
+      {
+        "text": "그래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497445130
+  },
+  {
+    "id": "bc7f7a15-3369-4f89-9daa-25300cb9d58a",
+    "data": [
+      {
+        "text": "동의",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497445130
+  }
+]

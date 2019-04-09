@@ -1,0 +1,41 @@
+{
+  "id": "aa39a20a-dddf-4060-92e7-ca86d66943e2",
+  "parentId": "69b0f984-1206-4bb9-999e-40ef1b1de67d",
+  "rootParentId": "69b0f984-1206-4bb9-999e-40ef1b1de67d",
+  "name": "Cafeterria",
+  "auto": true,
+  "contexts": [
+    "ServicesofCampus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ServicesofCampus.ServicesofCampus-custom",
+      "affectedContexts": [
+        {
+          "name": "Cafeterria-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "교내엔 상록원, 그루터기, 남산학사 푸드코트, 가든쿡 등 다양하게 원하시는 식사를 할 수 있는 곳이 있습니다.\n원하는 곳이 있나요?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119621,
+  "fallbackIntent": false,
+  "events": []
+}

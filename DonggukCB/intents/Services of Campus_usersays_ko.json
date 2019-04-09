@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fd995dfe-a667-43c7-a2eb-8e0a19daafcc",
+    "data": [
+      {
+        "text": "서비스가 필요해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bac2728-5259-45b7-8bfd-195584393729",
+    "data": [
+      {
+        "text": "교내 복지에 대해 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2fc85e8d-7e30-461c-a812-075ed3f2ea34",
+    "data": [
+      {
+        "text": "어떤 서비스가 있을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "722839bc-0986-43ea-a6fc-a8950e476f99",
+    "data": [
+      {
+        "text": "서비스?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce3852cd-e9c2-43cc-b251-0f21c9f51848",
+    "data": [
+      {
+        "text": "학교에 어떤 서비스가 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c77bb2ec-3cee-4411-b6ac-ff6b738b9ada",
+    "data": [
+      {
+        "text": "교내 서비스에는 무엇이 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

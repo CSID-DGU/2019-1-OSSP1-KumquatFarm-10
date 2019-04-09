@@ -1,0 +1,58 @@
+{
+  "id": "ade6e8c1-f948-49a8-9672-c5cf486cc14f",
+  "parentId": "69b0f984-1206-4bb9-999e-40ef1b1de67d",
+  "rootParentId": "69b0f984-1206-4bb9-999e-40ef1b1de67d",
+  "name": "CafeNCVS",
+  "auto": true,
+  "contexts": [
+    "ServicesofCampus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ServicesofCampus.ServicesofCampus-custom",
+      "affectedContexts": [
+        {
+          "name": "CafeNCVS-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "da0e2dc5-2681-4518-9984-13aec0152a73",
+          "required": false,
+          "dataType": "@CVS",
+          "name": "CVS",
+          "value": "$CVS",
+          "isList": false
+        },
+        {
+          "id": "2da3d525-7544-4f79-8bc5-7139ec64405b",
+          "dataType": "@Cafe",
+          "name": "Cafe",
+          "value": "$Cafe",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "$CVS를 찾으시는군요. 현재 위치가 어디세요?",
+            "$Cafe를 찾으시는군요. 현재 위치가 어디세요?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119621,
+  "fallbackIntent": false,
+  "events": []
+}

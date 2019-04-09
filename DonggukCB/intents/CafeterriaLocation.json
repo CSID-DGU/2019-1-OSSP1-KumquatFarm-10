@@ -1,0 +1,52 @@
+{
+  "id": "cdf6a021-9f2e-463d-b30e-02059412d661",
+  "parentId": "aa39a20a-dddf-4060-92e7-ca86d66943e2",
+  "rootParentId": "69b0f984-1206-4bb9-999e-40ef1b1de67d",
+  "name": "CafeterriaLocation",
+  "auto": true,
+  "contexts": [
+    "Cafeterria-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ServicesofCampus.ServicesofCampus-custom.Cafeterria-custom",
+      "affectedContexts": [
+        {
+          "name": "CafeterriaLocation-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ae2682a0-be4f-4611-a64c-8ac0e75fb9c7",
+          "required": false,
+          "dataType": "@dining_place",
+          "name": "dining_place",
+          "value": "$dining_place",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "$dining_place에 가고싶으신거 맞으시죠? 위치정보와 메뉴를 알려드릴까요?",
+            "$dining_place! 맛있겠네요. 위치정보와 메뉴를 알려드릴까요?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119621,
+  "fallbackIntent": false,
+  "events": []
+}

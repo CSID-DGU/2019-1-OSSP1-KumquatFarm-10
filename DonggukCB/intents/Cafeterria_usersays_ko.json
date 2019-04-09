@@ -1,0 +1,64 @@
+[
+  {
+    "id": "856498af-ebd3-45b9-b219-47186055ae01",
+    "data": [
+      {
+        "text": "식당",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 어디있어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1d62ee2-a09c-40f1-9290-a5bbce797518",
+    "data": [
+      {
+        "text": "학교에 식당",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 있나?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9da460cd-1bab-4cd1-ab23-aa74bb3da489",
+    "data": [
+      {
+        "text": "배고픈데 뭐먹지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40ebedb8-1e55-4ee4-bdbb-a7d26bf2be93",
+    "data": [
+      {
+        "text": "아코야 나 배고파",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
