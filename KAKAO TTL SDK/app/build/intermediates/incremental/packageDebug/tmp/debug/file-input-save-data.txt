@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Tue May 07 23:55:57 KST 2019
+1.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.path=lib/armeabi-v7a/libdialoid-apklib.so
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.set=NATIVE_RESOURCE
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+3.path=lib/arm64-v8a/libdialoid-apklib.so
+count=4
+1.set=DEX
+0.path=lib/armeabi/libdialoid-apklib.so
+3.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.baseType=DIRECTORY
+1.path=classes.dex
