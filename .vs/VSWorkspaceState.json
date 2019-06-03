@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DonggukCB\\entities"
+    "\\Dialogflow와 채팅 연동(임시)",
+    "\\Dialogflow와 채팅 연동(임시)\\android-chatbot"
   ],
-  "SelectedNode": "\\webhook.py",
+  "SelectedNode": "\\Dialogflow와 채팅 연동(임시)\\android-chatbot",
   "PreviewInSolutionExplorer": false
 }
