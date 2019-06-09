@@ -1,0 +1,509 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\412a1fcf6aea70267d747a9631d0f959\AndroidManifest.xml:17:1-24:12
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dee7099f8c1826371d47036b0bc86fff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3ba146c5866645a85349b8e7a142cccb\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4dd4b64bb341994a363d26e69e362fdf\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\aaba9bf0a6090dd81fda461c95fecf21\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb36df5a5d3f2f539164d847a2862396\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6ca7ca2e7c161f728022828d17f92ce1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\587cab494e66d6863e4151bb70766f8e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\d4166b3b311b8db437e8c789e361f256\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\c84852674a0a68fd96f269c337bacd2c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\7f24925d847136ece1cf78ebcc7eac7c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\efc9bfe6206f8d1c7d16b734e593bf88\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\92e4b36bc94110dbdbc4a9a6310a70ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\38198d7f19a44272773ef24b6b36cad8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\81016a2def62b8f6bb492532b1c71017\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3b042779c86bbe9ea1c20ffe5e641301\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\10ceb533a28ab98751fdbc953357ede0\AndroidManifest.xml:17:1-22:12
+MERGED from [ai.api:sdk:2.0.7] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb70af68058ded32287fccd3806fdb52\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a3ce8987da99851507331ecf4e112e22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\76f5816b395e9a91c5d2adf3b1ae5925\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\880f54fb39cb119588f9873b76944455\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8dc84d95bc7bf3edd10b7e045b3cf72d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\2fc8426d85342e892ae41b5f8e2b17b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\be78d939e4518cd797aa7e7677f6d178\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\5815260694146288a1c2a9d1737395d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\667ea3f711c2822964b3a88799cc147a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\d0f5272717dbcfd25e76690a39001ba7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\691388be0182041791389027ac4d340e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\940a89b3b1fda48a76dca54f7fb40c40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\b4a6a955beec20d519aad0e62ce838cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dd3db85e4ec8e97198e888b580ad386e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\49d86e24fee7573330f8e3a112f6f163\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\638147060f12cd5c86bbe8087aed22b5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\5580f88e7f31f73280814f21d7c61100\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\694cde1879f5f498ff5bfd912d1249e2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\00d4ff000888ef8be1cca6ceabe7ca10\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\683de8b258de191deeef224925fe6694\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\7638bcf07c256727d2c6e3231d1453fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\0d614c5951f838c79dedf762856e53e8\AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\395f4c2b1a3cad3d766c277422d393bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\ce336529cf6bfb1aae920203560bb99d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f16c281f4f22d60d093eca61012e1eb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dbe67272b9550dd8d26e077121b739a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\37acc3ec7776dddf5c635c040a9c7b12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\2581354f53469b3632e8896c3a14e0e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\9516ffb73a2a883bf87d1cbbf6406397\AndroidManifest.xml:2:1-10:12
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\99d2a56fd01f9cb6639a23cdcfc8b974\AndroidManifest.xml:2:1-12:12
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\abd2e23b654281f7bebe84fead822b60\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3266094ecc3c02aa38709c017595a192\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:11:5-67
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3ba146c5866645a85349b8e7a142cccb\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3ba146c5866645a85349b8e7a142cccb\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:7:5-71
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:12:5-71
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:13:5-79
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:14:5-68
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:10:22-65
+application
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:12:5-42:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\412a1fcf6aea70267d747a9631d0f959\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\412a1fcf6aea70267d747a9631d0f959\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\aaba9bf0a6090dd81fda461c95fecf21\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\aaba9bf0a6090dd81fda461c95fecf21\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb36df5a5d3f2f539164d847a2862396\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb36df5a5d3f2f539164d847a2862396\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6ca7ca2e7c161f728022828d17f92ce1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6ca7ca2e7c161f728022828d17f92ce1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\d4166b3b311b8db437e8c789e361f256\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\d4166b3b311b8db437e8c789e361f256\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\c84852674a0a68fd96f269c337bacd2c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\c84852674a0a68fd96f269c337bacd2c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\7f24925d847136ece1cf78ebcc7eac7c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\7f24925d847136ece1cf78ebcc7eac7c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\efc9bfe6206f8d1c7d16b734e593bf88\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\efc9bfe6206f8d1c7d16b734e593bf88\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\81016a2def62b8f6bb492532b1c71017\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\81016a2def62b8f6bb492532b1c71017\AndroidManifest.xml:9:5-20
+MERGED from [ai.api:sdk:2.0.7] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb70af68058ded32287fccd3806fdb52\AndroidManifest.xml:11:5-20
+MERGED from [ai.api:sdk:2.0.7] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb70af68058ded32287fccd3806fdb52\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\638147060f12cd5c86bbe8087aed22b5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\638147060f12cd5c86bbe8087aed22b5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\5580f88e7f31f73280814f21d7c61100\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\5580f88e7f31f73280814f21d7c61100\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3266094ecc3c02aa38709c017595a192\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3266094ecc3c02aa38709c017595a192\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\638147060f12cd5c86bbe8087aed22b5\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:14:9-37
+	android:allowBackup
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.kakao.sdk.newtone.sample.SplashActivity
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:21:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:19:13-55
+	android:theme
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:18:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.kakao.sdk.newtone.sample.SpeechSampleActivity
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:31:13-71
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:29:19-83
+activity#com.kakao.sdk.newtone.sample.VoiceRecoActivity
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:36:9-37:73
+	android:theme
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:37:13-71
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:36:19-80
+meta-data#com.kakao.sdk.AppKey
+ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:39:9-41:53
+	android:value
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:41:13-50
+	android:name
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml:40:13-48
+uses-sdk
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\412a1fcf6aea70267d747a9631d0f959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\412a1fcf6aea70267d747a9631d0f959\AndroidManifest.xml:20:5-44
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4a7d1b7e01ffb0882c7c078d34ddc6f0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dee7099f8c1826371d47036b0bc86fff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dee7099f8c1826371d47036b0bc86fff\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3ba146c5866645a85349b8e7a142cccb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3ba146c5866645a85349b8e7a142cccb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4dd4b64bb341994a363d26e69e362fdf\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\4dd4b64bb341994a363d26e69e362fdf\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\aaba9bf0a6090dd81fda461c95fecf21\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\aaba9bf0a6090dd81fda461c95fecf21\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb36df5a5d3f2f539164d847a2862396\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb36df5a5d3f2f539164d847a2862396\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6ca7ca2e7c161f728022828d17f92ce1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6ca7ca2e7c161f728022828d17f92ce1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\587cab494e66d6863e4151bb70766f8e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\587cab494e66d6863e4151bb70766f8e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\d4166b3b311b8db437e8c789e361f256\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\d4166b3b311b8db437e8c789e361f256\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\c84852674a0a68fd96f269c337bacd2c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\c84852674a0a68fd96f269c337bacd2c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\7f24925d847136ece1cf78ebcc7eac7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\7f24925d847136ece1cf78ebcc7eac7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\efc9bfe6206f8d1c7d16b734e593bf88\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\efc9bfe6206f8d1c7d16b734e593bf88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\92e4b36bc94110dbdbc4a9a6310a70ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\92e4b36bc94110dbdbc4a9a6310a70ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\38198d7f19a44272773ef24b6b36cad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\38198d7f19a44272773ef24b6b36cad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\81016a2def62b8f6bb492532b1c71017\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\81016a2def62b8f6bb492532b1c71017\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3b042779c86bbe9ea1c20ffe5e641301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3b042779c86bbe9ea1c20ffe5e641301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\10ceb533a28ab98751fdbc953357ede0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\10ceb533a28ab98751fdbc953357ede0\AndroidManifest.xml:20:5-44
+MERGED from [ai.api:sdk:2.0.7] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb70af68058ded32287fccd3806fdb52\AndroidManifest.xml:7:5-9:41
+MERGED from [ai.api:sdk:2.0.7] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\cb70af68058ded32287fccd3806fdb52\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a3ce8987da99851507331ecf4e112e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a3ce8987da99851507331ecf4e112e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\76f5816b395e9a91c5d2adf3b1ae5925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\76f5816b395e9a91c5d2adf3b1ae5925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\880f54fb39cb119588f9873b76944455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\880f54fb39cb119588f9873b76944455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8dc84d95bc7bf3edd10b7e045b3cf72d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8dc84d95bc7bf3edd10b7e045b3cf72d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\2fc8426d85342e892ae41b5f8e2b17b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\2fc8426d85342e892ae41b5f8e2b17b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\be78d939e4518cd797aa7e7677f6d178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\be78d939e4518cd797aa7e7677f6d178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\5815260694146288a1c2a9d1737395d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\5815260694146288a1c2a9d1737395d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\667ea3f711c2822964b3a88799cc147a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\667ea3f711c2822964b3a88799cc147a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\d0f5272717dbcfd25e76690a39001ba7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\d0f5272717dbcfd25e76690a39001ba7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\691388be0182041791389027ac4d340e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\691388be0182041791389027ac4d340e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\940a89b3b1fda48a76dca54f7fb40c40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\940a89b3b1fda48a76dca54f7fb40c40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\b4a6a955beec20d519aad0e62ce838cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\b4a6a955beec20d519aad0e62ce838cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dd3db85e4ec8e97198e888b580ad386e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dd3db85e4ec8e97198e888b580ad386e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\49d86e24fee7573330f8e3a112f6f163\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\49d86e24fee7573330f8e3a112f6f163\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\638147060f12cd5c86bbe8087aed22b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\638147060f12cd5c86bbe8087aed22b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\5580f88e7f31f73280814f21d7c61100\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\5580f88e7f31f73280814f21d7c61100\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\694cde1879f5f498ff5bfd912d1249e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\694cde1879f5f498ff5bfd912d1249e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\00d4ff000888ef8be1cca6ceabe7ca10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\00d4ff000888ef8be1cca6ceabe7ca10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\683de8b258de191deeef224925fe6694\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\683de8b258de191deeef224925fe6694\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\7638bcf07c256727d2c6e3231d1453fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\7638bcf07c256727d2c6e3231d1453fb\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\0d614c5951f838c79dedf762856e53e8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\0d614c5951f838c79dedf762856e53e8\AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\395f4c2b1a3cad3d766c277422d393bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\395f4c2b1a3cad3d766c277422d393bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\ce336529cf6bfb1aae920203560bb99d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\ce336529cf6bfb1aae920203560bb99d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f16c281f4f22d60d093eca61012e1eb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f16c281f4f22d60d093eca61012e1eb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dbe67272b9550dd8d26e077121b739a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\dbe67272b9550dd8d26e077121b739a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\37acc3ec7776dddf5c635c040a9c7b12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\37acc3ec7776dddf5c635c040a9c7b12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\2581354f53469b3632e8896c3a14e0e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\2581354f53469b3632e8896c3a14e0e0\AndroidManifest.xml:20:5-44
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\9516ffb73a2a883bf87d1cbbf6406397\AndroidManifest.xml:6:5-8:41
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\9516ffb73a2a883bf87d1cbbf6406397\AndroidManifest.xml:6:5-8:41
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\99d2a56fd01f9cb6639a23cdcfc8b974\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\99d2a56fd01f9cb6639a23cdcfc8b974\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\abd2e23b654281f7bebe84fead822b60\AndroidManifest.xml:11:5-13:41
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\abd2e23b654281f7bebe84fead822b60\AndroidManifest.xml:11:5-13:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3266094ecc3c02aa38709c017595a192\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\3266094ecc3c02aa38709c017595a192\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Space Kim\Desktop\kakao-android-sdk-speech\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\8c3898d7f712995f2e594cf977e7f8e5\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\f65e18008267efffaa20e3b2681149f0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\39fb87385b1157513383e9ff236ac3e8\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:29:9-63
+permission#com.kakao.sdk.newtone.sample.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:32:22-76
+uses-permission#com.kakao.sdk.newtone.sample.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.kakao.sdk.newtone.sample
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:48:27-58
+category#com.kakao.sdk.newtone.sample
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\a1203d7f1e3b935ed2df37117287be60\AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\6b1f922f84eaf484bf3f51b953bec036\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.2] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\095d3fa35caf537fad2610918a62dd99\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\efc9bfe6206f8d1c7d16b734e593bf88\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\efc9bfe6206f8d1c7d16b734e593bf88\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Space Kim\.gradle\caches\transforms-2\files-2.1\efc9bfe6206f8d1c7d16b734e593bf88\AndroidManifest.xml:24:13-58
