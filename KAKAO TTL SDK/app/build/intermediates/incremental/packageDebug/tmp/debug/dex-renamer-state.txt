@@ -1,4 +1,0 @@
-#Wed May 08 11:06:28 KST 2019
-base.0=C\:\\Users\\psj\\Desktop\\android\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-path.0=classes.dex
-renamed.0=classes.dex
